@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafikul Alam</h1>
-<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d">
+<img align="right" alt="Rafikul Alam coding" width="200"  src="https://qph.cf2.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d">
 <h3 align="center">A passionate  developer from India</h3>
 
 - 💬 Ask me about **c, c++ , Java, HTML, CSS, Javascript**
