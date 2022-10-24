@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 1200px;height:500px" />
-</div>  
-  
 
-### <div align="center">I'm Rafikul Alam 😎, a passionate developer from India 🇮🇳</div>  
+### <div align="center">I'm Rafikul Alam </span> 😎, a passionate developer from India 🇮🇳</div>  
   
 
 - 🌱 I’m currently learning Django and tailwindCSS  
