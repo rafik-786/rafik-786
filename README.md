@@ -2,7 +2,7 @@
 ### <div align="center">I'm Rafikul Alam </span> 😎, a passionate developer from India 🇮🇳</div>  
   
 
-- 🌱 I’m currently learning Django and tailwindCSS  
+- 🌱 I’m currently learning MERN and tailwindCSS  
   
 
 - ❓ Ask me about anything related to HTML, CSS, JS, Java  
