@@ -8,7 +8,7 @@
 - ❓ Ask me about anything related to HTML, CSS, JS, Java  
   
 
-- ⚡ Fun fact: I become introverted when I feel sleepy  
+- ⚡ Fun fact: I become introvert when I feel sleepy  
   
 
 <br/>  
