@@ -20,30 +20,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafik-786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-### 😂 Meme Time
-<img src="https://rm.up.railway.app/" width="512px" align="center" />
-
-
-
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-
