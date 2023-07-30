@@ -5,7 +5,7 @@
  ### <div align="center" >I'm Rafikul Alam </span> 😎, a passionate developer from India 🇮🇳</div>  
 
 # 💫 About Me:
-🌱 I’m currently learning MERN <br>❓ Ask me about anything related to HTML, CSS, JS, Java<br>📞 Reach me: rafikulalam2000off@gmail.com<br>⚡ Fun fact: I become introverted when I feel sleepy<br><br>
+🌱 I’m currently learning MERN <br>❓ Ask me about anything related to C/C++,Java,Javascript,HTML,CSS<br>📞 Reach me: rafikulalam2000off@gmail.com<br>⚡ Fun fact: I become introverted when I feel sleepy<br><br>
 
 
 ## 🌐 Socials:
